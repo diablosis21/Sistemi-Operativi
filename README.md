@@ -23,8 +23,8 @@ La directory principale è organizzata per data d'esame:
 Sistemi-Operativi/
 │
 ├── Esami/
-│   ├── compito_AAAA-MM-GG/
-│   │   ├── compito_AAAA-MM-GG.pdf   # Testo dell'esame
+│   ├── compito_GG-MM-AAAA/
+│   │   ├── compito_GG-MM-AAAA.pdf   # Testo dell'esame
 │   │   ├── sorgente.c               # Implementazione della soluzione
 │   │   └── file_di_test.txt         # Eventuali file di input/test forniti
 │   └── ...
